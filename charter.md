@@ -11,4 +11,4 @@
 - A potential challenge that I may face in the future of this course is technical issues using Markdown to complete assingments.
 - I am concerned about my minimal experiance using GitHub. Since this course involves using GitHub's capabilities, question on were to navigate may arise.
 
-My [GitHub profile](https://github.com/@CameronCombs578)
+My [GitHub profile](https://github.com/CameronCombs578)
