@@ -6,7 +6,7 @@ My name is Cameron Combs. I am a second-year college student taking the **Early 
 ## Course Goals:
 1. I hope to understand the advanced mechanics of **Markdown** throughout this course.
 2. During this course, I want to learn how to use my various experiences and skills to become a better technological critical thinker.
-3. I want to become more familiar with using **GitHub** to store and edit projects from this class.
+3. I want to become more familiar with using **GitHub** to store and edit any projects I create.
 4. Improve my knowledge and skills in using the basic functions of **Markdown** such as inserting _links_ and _images_, creating _headers_, and listing words and phrases.
 5. I plan to increase my knowledge of the basics of business strategies from this course.
 6. **I** will practice my communication skills during the discussion assignments in this course.
